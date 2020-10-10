@@ -6,7 +6,7 @@ Combining the ideas of Quantum and Classical Electrodynamics, we have quantum el
 
 Force is the change in momentum over the change in time, or $F = \frac{dp}{dt}$. As such, this means that for an object to assert a force on another, it must transfer momentum somehow. Additionally, system must obey the conservation of linear momentum.
 
-![img](/images/gunrecoil.gif)
+![A gun recoiling](/images/gunrecoil.gif)
 
 For example, this phenomena manifests when firing a gun. As the bullet flies forwards, the gun will recoil backwards. This is because of the conservation of linear momentum. The gun must have an equal momentum to the bullet, but in the opposite direction. Hence, the bullet travels forwards while the gun recoils backwards. Something to note is that by firing the bullet, a force is applied in the backward direction on the gun
 
@@ -18,15 +18,15 @@ Take for example the repulsion of two electrons. We know that like charges repel
 
 We can imagine the electron as a moving gun, and a photon as the bullet. As the electron “fires” the photon, the trajectory of the electron changes. The photon carries momentum to the right, and hence the electron must gain momentum leftwards. Hence, it moves left instead of right after firing the photon.
 
-(gif goes here)
+![electron turn left](/images/repel_left.gif)
 
 Now, instead of firing a photon, what about being hit by a photon? The photon transfers its momentum to the electron. In this case, the electron absorbs the photon. The rightward momentum of the photon is transferred to the left-moving electron, causing it to move to the right.
 
-(gif goes here)
+![electron turn right](/images/repel_right.gif)
 
 Now, the magic comes from combining the two halves together. This is actually the repulsion of two electrons.
 
-(gif goes here)
+![two electrons repelling each other](/images/repel_right.gif)
 
 When two electrons come close to each other, they exchange photons. These photons transfer momentum from one electron to another, and hence cause them to repel.
 
@@ -34,6 +34,7 @@ This is the fundamental concept of quantum electrodynamics: **electric forces ar
 
  
 
-### Stop to think!
+**Stop to Think!**
 
 When the photon is created out of nowhere, doesn’t this violate the conservation of energy? See more in (link to Virtual Particles)
+
