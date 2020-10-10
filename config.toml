@@ -2,3 +2,6 @@ baseURL = "https://l-yc.github.io/physics-website"
 languageCode = "en-us"
 title = "Physics Website"
 publishDir = "docs"
+
+[markup.goldmark.renderer]
+    unsafe = true
