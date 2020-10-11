@@ -6,7 +6,9 @@ Previously, we saw how the transfer of photons from one electron to another expl
 
 But we still haven’t answered the question: When the electron is created released form the first electron, the conservation of energy is violated. How do we account for this?
 
-### Heisenberg Uncertainty Principle
+## Heisenberg Uncertainty Principle
+
+
 
 The Heisenberg Uncertainty Principle states that the more precisely the time of a particle is determined, the less precisely the energy can be determined. It is given by: $dEdt >= \frac{h}{4 \pi}$.
 
@@ -20,9 +22,9 @@ As such, the photon that is transferred from one electron to the other is **virt
 
 This also explains why electrons repel more at closer distances. At closer distances, the virtual photon requires less time to travel from one electron to the next. As such, the amount of energy that can be “created out of nowhere” is more, and more momentum can be transferred from one electron to the other.
 
- 
 
-### Infinite Possibilites
+
+## Infinite Possibilities 
 
 As simple as the idea of a virtual particle is, this leads to quite a complication. Since the particles are virtual, there’s no way to observe them.
 
@@ -33,3 +35,16 @@ Let’s look back at the repulsion of electron again. The transfer of one virtua
 There’s countless other possibilities that can explain this interaction, and there’s no way to know which is which. In fact, the truth is an “average” of all the infinite possibilities. 
 
 How do we resolve the infinite possibilities? The answer lies in Feynman Diagrams (link to Feynman Diagram)
+
+
+
+
+
+### A brief note
+
+This is not the complete description of the Heisenberg Uncertainty Principle, and there's more to it that just this. We're only describing parts of it for you to understand how virtual particles works. 
+
+
+
+In fact, there is a another form of the Heisenberg Uncertainty Principle that relates momentum and displacement. You can watch more [here](https://www.youtube.com/watch?v=a8FTr2qMutA)
+

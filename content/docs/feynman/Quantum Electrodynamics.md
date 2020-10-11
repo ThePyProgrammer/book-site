@@ -2,7 +2,7 @@
 
 Combining the ideas of Quantum and Classical Electrodynamics, we have quantum electrodynamics. In essence, Quantum electrodynamics explains the phenomena of electric fields and magnetic fields in terms of the discrete interactions of charged particles and photons.
 
-### Transferring Momentum
+## Transferring Momentum
 
 Force is the change in momentum over the change in time, or $F = \frac{dp}{dt}$. As such, this means that for an object to assert a force on another, it must transfer momentum somehow. Additionally, system must obey the conservation of linear momentum.
 
@@ -12,7 +12,9 @@ For example, this phenomena manifests when firing a gun. As the bullet flies for
 
 In quantum electrodynamics, this concept applies as well. 
 
-### Repulsion of Electrons
+
+
+## Repulsion of Electrons
 
 Take for example the repulsion of two electrons. We know that like charges repel, and two electrons close to each other should repel. But how can we explain this in terms of momentum?
 
@@ -34,7 +36,9 @@ This is the fundamental concept of quantum electrodynamics: **electric forces ar
 
  
 
-**Stop to Think!**
+
+
+## Stop To Think!
 
 When the photon is created out of nowhere, doesn’t this violate the conservation of energy? See more in (link to Virtual Particles)
 
