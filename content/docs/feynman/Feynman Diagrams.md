@@ -1,4 +1,6 @@
-
+---
+weight: 4
+---
 
 ## **FEYNMAN DIAGRAMS** **(ELECTROMAGNETIC FORCE**) 
 

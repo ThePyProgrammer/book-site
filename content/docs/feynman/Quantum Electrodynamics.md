@@ -1,3 +1,8 @@
+---
+latex: true
+weight: 3
+---
+
 # Quantum electrodynamics
 
 Combining the ideas of Quantum and Classical Electrodynamics, we have quantum electrodynamics. In essence, Quantum electrodynamics explains the phenomena of electric fields and magnetic fields in terms of the discrete interactions of charged particles and photons.

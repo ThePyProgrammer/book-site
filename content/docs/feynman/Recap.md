@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # Recap
 
 You should be familiar with subatomic particles, antimatter, and classical electrodynamics. But here's a recap of these topics before we move on into quantum electrodynamics and feynmann diagrams.

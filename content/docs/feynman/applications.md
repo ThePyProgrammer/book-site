@@ -1,6 +1,7 @@
 ---
 typora-root-url: /home/lyc/Documents/LocalDev/physics-website/static/
 katex: true
+weight: 6
 ---
 
 # Applications of Feynman Diagrams
