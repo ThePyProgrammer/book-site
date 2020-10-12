@@ -2,11 +2,26 @@
 
 You should be familiar with subatomic particles, antimatter, and classical electrodynamics. But here's a recap of these topics before we move on into quantum electrodynamics and feynmann diagrams.
 
-**Subatomic Particles and Antimatter**
+## Subatomic Particles
 
- [insert self filmed video]
+To think about quantum interactions, you should ideally be aware of our current understanding of the elementary particles that make up our universe – They are shown in the diagram below. 
 
-**Classical electrodynamics**
+![electrons repelling each other, with 2 photons](/images/standard-model-of-particle-physics.png)
+
+You might be curious as to what protons and neutrons are made up of. Protons have two up quarks and one down quark, while neutrons have one up quark and two down quarks. This means that most of our observable universe can be described using just up quarks, down quarks and electrons! 
+
+![electrons repelling each other, with 2 photons](/images/protons-neutrons-quarks.png)
+
+We also know of four possible forces, three of which are known to be carried by certain bosons: 
+
+| **Force**      | Strong          | Electromagnetic                    | Weak                | Gravity                     |
+| -------------- | --------------- | ---------------------------------- | ------------------- | --------------------------- |
+| **Carried by** | Gluons          | Photons                            | Z bosons / W bosons | Graviton (not yet observed) |
+| **Acts on**    | Quarks & Gluons | Quarks, charged leptons & W bosons | Quarks & Leptons    | All                         |
+
+What then, is the Higgs boson? It is an elementary particle that is associated with the mass of every particle (!) and we sometimes see it in Feynman diagrams involving the weak force, or nuclear fusion or nuclear fission where mass is converted into energy, or vice versa. 
+
+## Classical electrodynamics
 
 Electrodynamics or Electromagnetism is the study of Electromagnetic Force. The Electromagnetic force is one of the fundamental forces in our universe, and it studies the interaction between electrically charged particles.
 
