@@ -1,5 +1,6 @@
 ---
 typora-root-url: /home/lyc/Documents/LocalDev/physics-website/static/
+katex: true
 ---
 
 # Applications of Feynman Diagrams
@@ -80,7 +81,7 @@ Well, they'll repel each other and fly apart, because like charges repel right? 
 
 
 
-However, there is also another possible cause of this repulsion, albeit less common. That is, the $Z​$ boson could have been a mediator for a weak interaction between the electrons. Note that the $Z​$ boson and not the $W​$ boson is involved, because we have a neutral intermediate due to the conservation laws of particle interactions.
+However, there is also another possible cause of this repulsion, albeit less common. That is, the $Z$ boson could have been a mediator for a weak interaction between the electrons. Note that the $Z$ boson and not the $W$ boson is involved, because we have a neutral intermediate due to the conservation laws of particle interactions.
 
 ![electro-weak](/images/electro-weak.png)
 
