@@ -6,7 +6,7 @@ weight: 5
 
 Previously, we saw how the transfer of photons from one electron to another explains the repulsion when they come close. 
 
-![electrons repelling each other](images/repel_both.gif)
+![electrons repelling each other](/images/repel_both.gif)
 
 But we still haven’t answered the question: When the electron is created released form the first electron, the conservation of energy is violated. How do we account for this?
 
