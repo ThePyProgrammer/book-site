@@ -1,6 +1,6 @@
 ---
 typora-root-url: /home/lyc/Documents/LocalDev/physics-website/static/
-latex: true
+katex: true
 weight: 3
 ---
 
@@ -32,13 +32,9 @@ Now, instead of emitting a photon, what if an electron is hit by a photon? The p
 
 Now, here comes the magic. Try combining the two halves together. What do you notice?
 
-{{ expand }}
-
-This is actually the repulsion of two electrons!
+**This is actually the repulsion of two electrons!**
 
 ![two electrons repelling each other](/images/repel_both.gif)
-
-{{ /expand }}
 
 When two electrons move close together, they can exchange photons*. These photons transfer momentum from one electron to another, causing them to repel.
 
