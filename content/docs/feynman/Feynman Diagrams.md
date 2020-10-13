@@ -1,4 +1,5 @@
 ---
+katex: true
 weight: 5
 ---
 
