@@ -33,7 +33,7 @@ Now, instead of firing a photon, what about being hit by a photon? The photon tr
 
 Now, the magic comes from combining the two halves together. This is actually the repulsion of two electrons.
 
-![two electrons repelling each other](/images/repel_right.gif)
+![two electrons repelling each other](/images/repel_both.gif)
 
 When two electrons come close to each other, they exchange photons. These photons transfer momentum from one electron to another, and hence cause them to repel.
 

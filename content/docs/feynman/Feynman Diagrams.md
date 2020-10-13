@@ -1,6 +1,5 @@
 ---
-katex: true
-weight: 4
+weight: 5
 ---
 
 ## **FEYNMAN DIAGRAMS** **(ELECTROMAGNETIC FORCE**) 
