@@ -1,4 +1,5 @@
 ---
+katex: true
 weight: 5
 ---
 
@@ -14,7 +15,7 @@ But we still haven’t answered the question: When the electron is created relea
 
 
 
-The Heisenberg Uncertainty Principle states that the more precisely the time of a particle is determined, the less precisely the energy can be determined. It is given by: $dEdt >= \frac{h}{4 \pi}$.
+The Heisenberg Uncertainty Principle states that the more precisely the time of a particle is determined, the less precisely the energy can be determined. It is given by: $dE \cdot dt \geq \frac{h}{4 \pi}$.
 
  
 

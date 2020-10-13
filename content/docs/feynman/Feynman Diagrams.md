@@ -1,4 +1,5 @@
 ---
+katex: true
 weight: 4
 ---
 
@@ -40,11 +41,11 @@ These are the primitive vertices for the strong, electromagnetic and weak forces
 
 We will dive in deeper into Feynman diagrams, but eventually, we must support our intuition with laws that exist. Most importantly, each vertex in a Feynman diagram must conserve charge, baryon number and lepton number. 
 
-The conservation of charge is quite logical. For instance, an up quark has a charge of +2/3, while a down quark has a charge of –1/3. This is also why neutrons, having one up quark and two down quarks is neutral, while protons, having one two up quarks and one down quark has a charge of +1. If a neutron decays into a proton, a W- boson must be spit out to conserve charge. 
+The conservation of charge is quite logical. For instance, an up quark has a charge of $+\frac{2}{3}$, while a down quark has a charge of $-\frac{1}{3}$. This is also why neutrons, having one up quark and two down quarks is neutral, while protons, having one two up quarks and one down quark has a charge of $+1$. If a neutron decays into a proton, a $W^-$ boson must be spit out to conserve charge. 
 
-Baryons are massive particles which are made up of three quarks in the standard model. Each baryon is giving a baryon number of 1. By logic, quarks are given a baryon number of 1/3. An antiquark is given a baryon number of –1/3. This is why mesons, made up of a quark and antiquark, are given a baryon number of 0. No known decay process or interaction in nature changes the net baryon number. 
+Baryons are massive particles which are made up of three quarks in the standard model. Each baryon is giving a baryon number of $1$. By logic, quarks are given a baryon number of $\frac{1}{3}$. An antiquark is given a baryon number of $-\frac{1}{3}$. This is why mesons, made up of a quark and antiquark, are given a baryon number of $0$. No known decay process or interaction in nature changes the net baryon number. 
 
-All leptons are given a lepton number of 1, while all anti-leptons are given a lepton number of –1. For example, an electron and anti-neutrino will balance each other out, and that’s why they appear in the beta decay of an atom. 
+All leptons are given a lepton number of $1$, while all anti-leptons are given a lepton number of $-1$. For example, an electron and anti-neutrino will balance each other out, and that’s why they appear in the beta decay of an atom. 
 
 ![electrons repelling each other, with 2 photons](/images/complicated-diagram-with-gluons.png)
 
