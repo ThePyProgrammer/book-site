@@ -11,3 +11,4 @@ canonifyURLs = true # resolve to web root :>
 
 [params]
     BookSection = "*"
+    BookSearch = false
