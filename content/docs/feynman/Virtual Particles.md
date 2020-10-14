@@ -30,7 +30,7 @@ While the idea of a virtual particle is simple, it isn't without issues. Since t
 
 Let’s examine the repulsion of electron again. The transfer of one virtual photon is the simplest case of their interaction. However, we can’t say for sure that’s what is truly happening! Why can't two photons be transfered instead of one?
 
-![electrons repelling each other, with 2 photons](images/repel_double.gif)
+![electrons repelling each other, with 2 photons](/images/repel_double.gif)
 
 In fact, there’s countless other possibilities that can explain this interaction. None of them is sufficient to describe what actually happens. The truth lies in the “average” of all the infinite possibilities.
 
