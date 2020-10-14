@@ -1,6 +1,6 @@
 baseURL = "https://l-yc.github.io/physics-website/"
 languageCode = "en-us"
-title = "Physics Website"
+title = "Feynman Diagrams"
 publishDir = "docs"
 
 relativeURLs = true

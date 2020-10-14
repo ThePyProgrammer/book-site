@@ -1,41 +1,16 @@
 ---
-title: Introduction
-type: docs
+weight: 1
+title: "Feynman Diagrams"
 ---
 
-# Acerbo datus maxime
+# Feynman Diagrams...?
 
-{{< columns >}}
-## Astris ipse furtiva
+{{< figure src="http://s3-us-west-1.amazonaws.com/www-prod-storage.cloud.caltech.edu/styles/article_photo/s3/feynman01-NEWS-WEB.jpeg?itok=OI7b23mU" title="Caltech physicist and Nobel Laureate Richard Feynman (undated photograph)." caption="Credit: Richard Hartt/Caltech Archives" >}}
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Hello there! Are you curious to find out what the bunch of squiggly lines on almost every website explaining quantum physics mean? Fear not, for this site aims to guide you gently through this concept without unnecessarily complicated math! Feel free to browse around; the pages can be read in any order. However, if you are lost, do try reading through them in the order they are presented as we feel that it will seem more logical to you :)
 
-<--->
+~ Benedict, Rui Yuan and Yue Chen
 
-## Suis quot vota
+NUSH M20503
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+*A PC5132 Module Project*
