@@ -30,7 +30,7 @@ Remember the electron-positron annihilation from earlier? This process is the re
 
 {{< expand "See answer">}}
 
-Insert video here.
+![300](https://vimeo.com/292291821/0c7d51acd2)
 
 {{< /expand >}}
 
@@ -66,9 +66,7 @@ We've seen Beta-Decay, but there's also another form of Beta Decay! In this vers
 $$
 p \to n + e^+ + v
 $$
-The $v$ here represents the neutrino
-
-
+$v$ represents the neutrino ejected.
 
 Try to draw the Feynman Diagram for this interaction!
 
