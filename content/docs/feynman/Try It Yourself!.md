@@ -6,7 +6,7 @@ weight: 6
 
 # Try It Yourself!
 
-
+Here are some other interesting quantum phenomenea, try to draw the Feynman Diagram for each one of them!
 
 ## Pair production
 
@@ -25,6 +25,56 @@ Try to draw the Feynman Diagram for this interaction!
 {{< expand "Hint">}}
 
 Remember the electron-positron annihilation from earlier? This process is the reverse of that.
+
+{{< /expand >}}
+
+{{< expand "See answer">}}
+
+Insert video here.
+
+{{< /expand >}}
+
+
+
+## Compton Scattering
+
+Compton scattering is the scattering of a photon by an electron. In other words, when a photon ‘hits’ a electron, they undergo inelastic collision, and the photon transfers some momentum and energy to the electron.
+
+
+
+Try to draw the Feynman Diagram for this interaction!
+
+{{< expand "Hint">}}
+
+Actually, there's no change in particles in this interaction! We start with an electron and a photon, and we end with an electron and a photon as well.
+
+{{< /expand >}}
+
+{{< expand "See answer">}}
+
+Insert video here.
+
+{{< /expand >}}
+
+
+
+
+
+## Beta-Plus Decay
+
+We've seen Beta-Decay, but there's also another form of Beta Decay! In this version, a proton converts to a neutron, a positron and a neutrino. The equation is given as:
+$$
+p \to n + e^+ + v
+$$
+The $v$ here represents the neutrino
+
+
+
+Try to draw the Feynman Diagram for this interaction!
+
+{{< expand "Hint">}}
+
+Recall the Beta-Minus decay, and see if you can adapt it to this situation
 
 {{< /expand >}}
 
