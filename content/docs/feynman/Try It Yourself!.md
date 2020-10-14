@@ -1,7 +1,7 @@
 ---
 typora-root-url: /home/lyc/Documents/LocalDev/physics-website/static/
 katex: true
-weight: 6
+weight: 7
 ---
 
 # Try It Yourself!
@@ -18,7 +18,7 @@ The equation of the interaction is:
 $$
 \gamma \to e^- + e^+
 $$
-The $\gamma$ refers to photon, and it uses it's energy to form an electron and a positron.
+The $\gamma$ refers to photon, and it uses it's energy to form an electron ($e^-$) and a positron ($e^+$).
 
 Try to draw the Feynman Diagram for this interaction!
 

@@ -8,3 +8,6 @@ canonifyURLs = true # resolve to web root :>
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[params]
+    BookSection = "*"
