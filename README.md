@@ -1,11 +1,13 @@
 # PC5132 Module Project
+Project title: Feynman Diagrams
+URL: https://l-yc.github.io/physics-website/
+Names of team members: Benedict Tan Deng Jin, Li Yue Chen, Lim Rui Yuan
 
 ## Editing
-Edit files in the `./content/docs/feynman`.
+Edit files in the `./content/`.
 Create a folder for each level of nesting.
-Put pictures in `./static/images/`.
-Put other assets in an appropriate folder under `./static/`.
-Reference pictures by `/images/<file>`.
+Put pictures in `./static/images/`, reference with `/images/<file>`.
+Put videos in `./static/videos`, reference with `/videos/<file>`.
 
 ## Running
 You will need an extended version of hugo for this (install from [here](https://github.com/gohugoio/hugo/releases/)).
