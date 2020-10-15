@@ -67,9 +67,13 @@ In this diagram, the y-axis represents **time** and the x-axis represents **spac
 
 Before we move on, we would like to remark that **the x and y axes for Feynman diagrams are not fixed**. Conventions differ and it is dangerous to assume the labels of the axes! What do you think will happen if you accidentally invert the axes?
 
-### Twists and Rotations
+## Applying Transformations
 
-One of the fascinating things about Feynman diagrams is that if you construct a Feynman diagram for a particular particle interaction, you can duplicate, rotate, flip and combine it to predict other particle interactions! Let's consider a simple diagram consisting of 2 vertices:
+One of the fascinating things about Feynman diagrams is that if you construct a Feynman diagram for a particular particle interaction, you can duplicate, rotate, twist, flip and combine it to predict other particle interactions! Here, we shall look at a few examples. 
+
+### Rotating the entire diagram
+
+Let's consider a simple diagram consisting of 2 vertices:
 
 ![electrons repelling each other, with 2 photons](/images/electron-positron-annihilation.png)
 
@@ -92,3 +96,57 @@ This diagram now describes a different process. Try going through the same proce
 A positron (arrow points backwards in time) moves to the right, absorbs a photon, emits another photon and moves to the left. This is similar to what happens in Compton Scattering (read on to find out!).
 
 {{< /expand >}}
+
+### Twisting a vertex (in the plane of the paper)
+
+Some processes can be related by simply twisting (or deforming) vertices in Feynman diagrams! Here, we see an example.
+
+![img](http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynw4.gif)
+
+Source: http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynw4.gif
+
+The exact process happening here isn't important. Instead, what you should note is how applying this simple transformation gives us a different process altogether. In fact, this powerful feature of Feynman diagram is a visualisation of **crossing-symmetry**.
+
+What is crossing-symmetry? Remember we mentioned earlier that anti particles are mathematically inverses of their regular counterparts? If we take a hypothetical process and write out the equation for it in the following form:
+$$
+A + B \to C + D
+$$
+Crossing-symmetry says that we can move things to the other side of the equation arrow, but we must take the inverse of it. For example, we can predict the following process from the previous one:
+$$
+A \to \overline{B} + C + D
+$$
+And this one too!
+$$
+A + B + \overline{C} \to D
+$$
+We can move multiple things as well:
+$$
+A + \overline{C} \to \overline{B} + D
+$$
+**This holds for all known particles.**
+
+{{< expand "Wait, wait, what about photons?" >}}
+
+You may have realised we never mentioned the antiparticle of a photon, which should be represented by $\overline{\gamma}$, right? Well, that actually doesn't make sense, because a photon is its own anti particle! Do you know why photons don't have an arrow on its line in Feynman diagrams now?
+
+{{< /expand >}}
+
+### Twisting a vertex (out of the plane of the paper)
+
+![twisting a vertex](/images/feyn-twist.png)
+
+Edited from: http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynx.gif
+
+
+
+What do you think will happen if we twist a vertex this way?
+
+{{< expand "Tell me more!" >}}
+
+We will get a different process as you may have predicted. For now, we won't be explaining further...but if you read on, you may find out why :)
+
+{{< /expand >}}
+
+## What's next?
+
+Now that you understand how Feynman diagrams work, read on to find out how we can [apply them to explain things](../applications/)!

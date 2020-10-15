@@ -38,9 +38,7 @@ Remember the electron-positron annihilation from earlier? This process is the re
 
 ## Compton Scattering
 
-Compton scattering is the scattering of a photon by an electron. In other words, when a photon ‘hits’ a electron, they undergo inelastic collision, and the photon transfers some momentum and energy to the electron.
-
-
+Compton scattering is the scattering of a photon by an electron. In other words, when a photon ‘hits’ a electron, they undergo inelastic collision, and the photon transfers some momentum and energy to the electron. (sounds familiar? You have seen something similar earlier!)
 
 Try to draw the Feynman Diagram for this interaction!
 
