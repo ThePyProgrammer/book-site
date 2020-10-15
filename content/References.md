@@ -17,6 +17,7 @@ weight: 8
 - Hyperphysics. _Fundamental Forces_. Retrieved from http://hyperphysics.phy-astr.gsu.edu/hbase/Forces/funfor.html
 - Hyperphysics. _Quarks_. Retrieved from http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/quark.html
 - Hyperphysics. _Particle Interactions and Conservation Laws_. Retrieved from http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/parint.html
+- Hyperphysics. _Crossing Symmetry_. Retrieved from http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/parint2.html#c1
 - The California Institute of Technology. _The Feynman Lectures on Physics, Volume III (Quantum Mechanics)_. Retrieved from https://www.feynmanlectures.caltech.edu/III_toc.html
 - APS Physics. _Landmarks: Powerful Pictures (Feynman Diagrams)_. Retrieved from https://physics.aps.org/story/v24/st3
 - Nobel Prize Organization. _The Nobel Prize in Physics 1965_.Retrieved from https://www.nobelprize.org/prizes/physics/1965/summary/
