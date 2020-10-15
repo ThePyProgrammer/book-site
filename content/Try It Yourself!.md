@@ -78,6 +78,6 @@ Recall the Beta-Minus decay, and see if you can adapt it to this situation
 
 {{< expand "See answer">}}
 
-(to be added)
+<video src="/videos/betaplussolution.mp4" controls style="width:100%"/>
 
 {{< /expand >}}
