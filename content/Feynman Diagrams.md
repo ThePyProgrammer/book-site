@@ -13,6 +13,8 @@ Feynman diagrams may look like a huge jumbled mess of lines, but however complic
 
 ![https://qph.fs.quoracdn.net/main-qimg-1701887fa9a382e38c4a0c4827cea17f](https://qph.fs.quoracdn.net/main-qimg-1701887fa9a382e38c4a0c4827cea17f)
 
+<p style="text-align:center"> <em>Source: Google Images</em></p>
+
 {{< expand "Answer" >}}
 
 6. Note that while they are dotted out in this diagram, you don't have to do this when drawing a Feynman diagrams
@@ -26,6 +28,8 @@ Observe that straight lines have arrows while squiggly lines do not. The arrows 
 Now that we know what lines and vertices represent, let's see how we can build a Feynman diagram ourselves. Here, we have the simplest building block of a Feynman diagram. This is called the **primitive vertex**.
 
 ![primitive vertex](/images/primitive_vertex.png)
+
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 Any Feynman diagram can be constructed by joining primitive vertices together, but we can't do so randomly. There are certain rules that must be obeyed at each vertex.
 
@@ -57,6 +61,8 @@ You may have recalled that we have stated earlier that vertices represent a poin
 
 ![electrons repelling each other, with 2 photons](/images/electron-absorbing-a-photon.png)
 
+<p style="text-align:center"> <em>Source: Google Images</em></p>
+
 In this diagram, the y-axis represents **time** and the x-axis represents **space**. Space and time are always the axes of a Feynman diagram. But how do we interpret this?
 
 **The straight line pointing in the northeast direction:** An electron moves to the right as time passes. Hence, we see that as the time-coordinate increases, the space-coordinate also increases.
@@ -73,9 +79,13 @@ One of the fascinating things about Feynman diagrams is that if you construct a 
 
 ![electrons repelling each other, with 2 photons](/images/electron-positron-annihilation.png)
 
+<p style="text-align:center"> <em>Source: Google Images</em></p>
+
 Here, the electron starts on the left, while the positron starts on the right. Note the direction of the positron's arrow: it is travelling backwards in time! (This is **not an error**. We can represent them this way because mathematically speaking, antiparticles are just the inverse of the original particle, i.e. a positron moving forward in time is equivalent to a electron travelling backwards in time. While this may seem counterintuitive, remember that time is also a dimension that we can play around with in the quantum realm.) The particles move towards each other, until a mysterious interaction happens in the middle. They are both annihilated, with two photons created at the same time. This interaction can be described as an electron-positron annihilation. Now, let's rotate this 90$^\circ$ clockwise.
 
 ![electrons repelling each other, with 2 photons, rotated](/images/electron-positron-annihilation-rot.png)
+
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 Before we try to figure out this mean, make a guess: what should the axes be?
 
