@@ -25,6 +25,4 @@ weight: 8
 
 - The University of Edinburg. _Quantum Electrodynamics_. Retrieved from https://www2.ph.ed.ac.uk/~muheim/teaching/np3/lect-qed.pdf
 
-- APS Physics. _*Landmarks*: Powerful Pictures_. Retrieved from https://physics.aps.org/story/v24/st3
-
 - Ben Best. _The Standard Model of Particle Physics_. Retrieved from https://www.benbest.com/science/standard.html#:~:text=The%20so%2Dcalled%20Standard%20Model,abundance%20of%20matter%20over%20antimatter
