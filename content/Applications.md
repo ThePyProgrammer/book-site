@@ -4,6 +4,44 @@ katex: true
 weight: 6
 ---
 
+
+
+![electrons repelling each other, with 2 photons](/images/repulsion-of-electrons.png)
+
+Here, we are able to represent the ‘repulsion’ between two charged particles, or the electromagnetic force! In this diagram, one electron exchanges a photon with another, causing them to be shoved off in opposite directions. This is also known as Moller scattering. 
+
+Here, we learn how they can be applied by examining the (known) Feynman diagrams for the fundamental forces of nature.
+
+## Explaining the Electromagnetic Force
+
+Interactions involving these fermions and bosons can be graphically described using Feynman diagrams. Let’s start by looking at an interaction between an electron and a photon. 
+
+## Explaining the Strong and Weak Forces
+
+We have thus far seen electromagnetic interactions. But how does it compare to the strong and weak forces?
+
+![electrons repelling each other, with 2 photons](/images/comparison-of-forces.png)
+
+These are the primitive vertices for the strong, electromagnetic and weak forces. How about gravity? Well, there are no diagrams for gravity because gravitons haven’t been observed (yet). 
+
+Now that we've looked at some of the conservation laws, let's look at Feynman diagrams for the weak and strong force!
+
+![electrons repelling each other, with 2 photons](/images/weak-force-diagram.png)
+
+The weak force is perhaps trickier than the electromagnetic force. Usually, the chain of reasoning is a bit more complicated. Here, a neutron decays into a proton. We can see that the neutron and proton have common quarks, and the only difference between them is that the neutron has a 2nd down quark while the proton has a 2nd up quark. In this diagram, the down quark of the neutron first changes flavor to become the up quark of the proton. As the flavor of the quarks is changed, the weak force is at play here, and the boson emitted must either be the W boson or the Z boson. The charge of the down quark is $-\frac{1}{3}$ while the charge of the up quark is $+\frac{2}{3}$, so to conserve charge, it must be the W- boson. 
+
+In the diagram, the interaction doesn't stop here, and the W- boson disappears eventually. For this to happen, the W- boson then emits an electron to conserve charge. However, as the electron is a lepton leaving the vertex, another lepton must enter the vertex by going back in time. Since this is not physically possible, we instead use the mathematically equivalent explanation that an anti-lepton must leave the vertex, and therefore the anti-neutrino must also be emitted. This interaction is also known as beta minus decay.
+
+What about the strong nuclear force? The strong force is mediated by gluons. They are responsible for the attractive and repulsive forces between quarks.
+
+![electrons repelling each other, with 2 photons](/images/protons-neutrons-gluons.png)
+
+In this diagram, the whitish curly lines represent the gluons. You could say that gluons 'glue' quarks together!
+
+![electrons repelling each other, with 2 photons](/images/nuclear-strong-force.png)
+
+This is a diagram representing the strong nuclear force, or the repulsion between a neutron and a proton. Don't worry if it looks complicated! Some extra knowledge is required to understand this Feynman diagram, which is beyond the scope of this website. Nevertheless, we hope to give you a taste of what the strong force looks like in Feynman diagrams. To understand this Feynman diagram, you have to realize that quarks, in addition to their flavors (up, down, charm, strange, top, bottom), have color charges (red, green, blue). Anti-quarks also have their own anti-color charges (anti-red, anti-green, anti-blue). Gluons each come with a color charge and an anti-color charge (and hence there are 9 possible color combinations of gluons). Gluons are constantly exchanged between quarks, and you can see their color interactions in this diagram. With all these interactions, the net effect is that the proton and neutron are repelled from each other.
+
 # Applications of Feynman Diagrams
 
 ## Significance of Feynman Diagrams

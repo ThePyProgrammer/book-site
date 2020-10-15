@@ -1,56 +1,94 @@
 ---
+typora-root-url: /home/lyc/Documents/LocalDev/physics-website/static/
 katex: true
 weight: 5
 ---
 
-## **FEYNMAN DIAGRAMS** **(ELECTROMAGNETIC FORCE**) 
+# Feynman Diagrams
+Now that we have laid out the fundamentals, let's explore Feynman diagrams by diving right in! 
 
-Interactions involving these fermions and bosons can be graphically described using Feynman diagrams. Let’s start by looking at an interaction between an electron and a photon. 
+## What is in a Feynman Diagram?
+
+Feynman diagrams may look like a huge jumbled mess of lines, but however complicated it may look, it only consists of **lines** and **vertices** (singular: vertex). Straight lines represent (observable) particles that are participating in the interaction, while squiggly lines represent virtual particles. Vertices occur at the intersection of lines and represent a specific point in space and time where some interesting process involving more than 1 particle occurs. Take a look at the diagram below. Can you identify the lines and vertices? How many vertices are there?
+
+![https://qph.fs.quoracdn.net/main-qimg-1701887fa9a382e38c4a0c4827cea17f](https://qph.fs.quoracdn.net/main-qimg-1701887fa9a382e38c4a0c4827cea17f)
+
+{{< expand "Answer" >}}
+
+6. Note that while they are dotted out in this diagram, you don't have to do this when drawing a Feynman diagrams
+
+{{< /expand >}}
+
+Observe that straight lines have arrows while squiggly lines do not. The arrows represent the direction in space-time that particles are travelling in.
+
+##  The primitive vertex
+
+Now that we know what lines and vertices represent, let's see how we can build a Feynman diagram ourselves. Here, we have the simplest building block of a Feynman diagram. This is called the **primitive vertex**.
+
+![primitive vertex](/images/primitive_vertex.png)
+
+Any Feynman diagram can be constructed by joining primitive vertices together, but we can't do so randomly. There are certain rules that must be obeyed at each vertex.
+
+### Conservation of Charge
+
+The conservation of charge is quite logical. For instance, an up quark has a charge of $+\frac{2}{3}$, while a down quark has a charge of $-\frac{1}{3}$. This is also why neutrons, having one up quark and two down quarks is neutral, while protons, having one two up quarks and one down quark has a charge of $+1$. If a neutron ($0$) decays into a proton ($+1$), a $W^-$ boson ($-1$) must be spit out to conserve charge ($0 = 1 - 1$). 
+
+### Conservation of Baryon Number
+
+Each baryon is given a baryon number of $1$. Since baryons are massive particles made up of 3 quarks in the standard model, quarks are given a baryon number of $\frac{1}{3}$. An antiquark, being the mathematical inverse of a quark, is hence given a baryon number of $-\frac{1}{3}$. Knowing this, what do you think the baryon number of a meson (made up of a quark and antiquark) should be?
+
+{{< expand "Answer" >}}
+
+0.
+
+{{< /expand >}}
+
+To date, no known decay process or interaction in nature changes the net baryon number. Put another way, quarks cannot be created or destroyed in any process -- if one quark enters a vertex, one quark must leave it.
+
+### Conservation of Lepton Number
+
+All leptons are given a lepton number of $1$, while all anti-leptons are given a lepton number of $-1$. Similar to the reasoning for conservation of baryon number, we know that if one lepton enters a vertex, exactly one lepton must leave it.
+
+For example, an electron and anti-neutrino will balance each other out, and that’s why they appear in the beta decay of an atom. 
+
+## The missing axes
+
+You may have recalled that we have stated earlier that vertices represent a point in space-time. That would not have been apparent yet, because we have yet to include any axes in any of the Feynman diagrams shown earlier. But now, let us try to put the final pieces in place to draw a meaningful diagram which can illustrate process. As usual, we'll investigate this by examining a simple Feynman diagram.
 
 ![electrons repelling each other, with 2 photons](/images/electron-absorbing-a-photon.png)
 
-In this diagram, the y-axis represents time and the x-axis represents space. The electron first starts on the left, and moves to the right. At the vertex (connection between the black and blue squiggly lines), the electron and a photon happen to be at the same point in space at the same time. After the electron encounters the photon, the photon disappears and the electron ends up moving to the left. This interaction can be described as an electron absorbing a photon. 
+In this diagram, the y-axis represents **time** and the x-axis represents **space**. Space and time are always the axes of a Feynman diagram. But how do we interpret this?
 
-One of the fascinating things about Feynman diagrams is that if you construct a Feynman diagram for a particular particle interaction, you can duplicate, rotate, flip and combine it to predict other particle interactions! For example, the above diagram can be manipulated to form the diagram below. 
+**The straight line pointing in the northeast direction:** An electron moves to the right as time passes. Hence, we see that as the time-coordinate increases, the space-coordinate also increases.
+
+**At the vertex (connection between the black and blue squiggly lines)**: The electron "collides" with a photon. This also means that they have the same position at the same time, i.e. the same space-time coordinates.
+
+**The straight line pointing in the northwest direction:** After the electron encounters the photon, the photon disappears and the electron ends up moving to the left. This interaction can be described as an electron absorbing a photon. 
+
+Before we move on, we would like to remark that **the x and y axes for Feynman diagrams are not fixed**. Conventions differ and it is dangerous to assume the labels of the axes! What do you think will happen if you accidentally invert the axes?
+
+### Twists and Rotations
+
+One of the fascinating things about Feynman diagrams is that if you construct a Feynman diagram for a particular particle interaction, you can duplicate, rotate, flip and combine it to predict other particle interactions! Let's consider a simple diagram consisting of 2 vertices:
 
 ![electrons repelling each other, with 2 photons](/images/electron-positron-annihilation.png)
 
-Here, the electron starts on the left, while the positron starts on the right. They move towards each other, until a mysterious interaction happens in the middle, they are annihilated, and two photons are created. Mathematically speaking, this interaction is explained by the electron on the left moving forward in time, then releasing a photon and somehow moving to the right, then releasing another photon and moving backwards in time. (All anti-particles moving forward in time are mathematically the same as their normal counterparts moving backward in time, even if this may not be physically true, which is why their arrows are reversed.) This interaction can be described as an electron-positron annihilation. 
+Here, the electron starts on the left, while the positron starts on the right. Note the direction of the positron's arrow: it is travelling backwards in time! (This is **not an error**. We can represent them this way because mathematically speaking, antiparticles are just the inverse of the original particle, i.e. a positron moving forward in time is equivalent to a electron travelling backwards in time. While this may seem counterintuitive, remember that time is also a dimension that we can play around with in the quantum realm.) The particles move towards each other, until a mysterious interaction happens in the middle. They are both annihilated, with two photons created at the same time. This interaction can be described as an electron-positron annihilation. Now, let's rotate this 90$^\circ$ clockwise.
 
-![electrons repelling each other, with 2 photons](/images/repulsion-of-electrons.png)
+![electrons repelling each other, with 2 photons, rotated](/images/electron-positron-annihilation-rot.png)
 
-Here, we are able to represent the ‘repulsion’ between two charged particles, or the electromagnetic force! In this diagram, one electron exchanges a photon with another, causing them to be shoved off in opposite directions. This is also known as Moller scattering. A quick question: What is the time-axis here? If you were observant, you might realize that up and down arrows are both used for the electron and positrons, which means that the y-axis can't be time. Therefore, time must be on the x-axis, and the y-axis represents space. Some authors are evil so you'll have to be careful not to make any false assumptions!
+Before we try to figure out this mean, make a guess: what should the axes be?
 
-## **FEYNMAN DIAGRAMS** **(STRONG & WEAK FORCE)** 
+{{< expand "Answer" >}}
 
-We have thus far seen electromagnetic interactions. But how does it compare to the strong and weak forces?
+The same! If we rotate it too, then we are still describing the same process.
 
-![electrons repelling each other, with 2 photons](/images/comparison-of-forces.png)
+{{< /expand >}}
 
-These are the primitive vertices for the strong, electromagnetic and weak forces. How about gravity? Well, there are no diagrams for gravity because gravitons haven’t been observed (yet). 
+This diagram now describes a different process. Try going through the same process described earlier. What do you think is happening here?
 
-We will dive in deeper into Feynman diagrams, but eventually, we must support our intuition with laws that exist. Most importantly, each vertex in a Feynman diagram must conserve charge, baryon number and lepton number. 
+{{< expand "Answer" >}}
 
-The conservation of charge is quite logical. For instance, an up quark has a charge of $+\frac{2}{3}$, while a down quark has a charge of $-\frac{1}{3}$. This is also why neutrons, having one up quark and two down quarks is neutral, while protons, having one two up quarks and one down quark has a charge of $+1$. If a neutron decays into a proton, a $W^-$ boson must be spit out to conserve charge. 
+A positron (arrow points backwards in time) moves to the right, absorbs a photon, emits another photon and moves to the left. This is similar to what happens in Compton Scattering (read on to find out!).
 
-Baryons are massive particles which are made up of three quarks in the standard model. Each baryon is given a baryon number of $1$. By logic, quarks are given a baryon number of $\frac{1}{3}$. An antiquark is given a baryon number of $-\frac{1}{3}$. This is why mesons, made up of a quark and antiquark, are given a baryon number of $0$. No known decay process or interaction in nature changes the net baryon number. In short, you could say that if one quark enters a vertex, one quark must leave it.
-
-All leptons are given a lepton number of $1$, while all anti-leptons are given a lepton number of $-1$. For example, an electron and anti-neutrino will balance each other out, and that’s why they appear in the beta decay of an atom. If one lepton enters a vertex, one lepton must leave it.
-
-Now that we've looked at some of the conservation laws, let's look at Feynman diagrams for the weak and strong force!
-
-![electrons repelling each other, with 2 photons](/images/weak-force-diagram.png)
-
-The weak force is perhaps trickier than the electromagnetic force. Usually, the chain of reasoning is a bit more complicated. Here, a neutron decays into a proton. We can see that the neutron and proton have common quarks, and the only difference between them is that the neutron has a 2nd down quark while the proton has a 2nd up quark. In this diagram, the down quark of the neutron first changes flavor to become the up quark of the proton. As the flavor of the quarks is changed, the weak force is at play here, and the boson emitted must either be the W boson or the Z boson. The charge of the down quark is $-\frac{1}{3}$ while the charge of the up quark is $+\frac{2}{3}$, so to conserve charge, it must be the W- boson. 
-
-In the diagram, the interaction doesn't stop here, and the W- boson disappears eventually. For this to happen, the W- boson then emits an electron to conserve charge. However, as the electron is a lepton leaving the vertex, another lepton must enter the vertex by going back in time. Since this is not physically possible, we instead use the mathematically equivalent explanation that an anti-lepton must leave the vertex, and therefore the anti-neutrino must also be emitted. This interaction is also known as beta minus decay.
-
-What about the strong nuclear force? The strong force is mediated by gluons. They are responsible for the attractive and repulsive forces between quarks.
-
-![electrons repelling each other, with 2 photons](/images/protons-neutrons-gluons.png)
-
-In this diagram, the whitish curly lines represent the gluons. You could say that gluons 'glue' quarks together!
-
-![electrons repelling each other, with 2 photons](/images/nuclear-strong-force.png)
-
-This is a diagram representing the strong nuclear force, or the repulsion between a neutron and a proton. Don't worry if it looks complicated! Some extra knowledge is required to understand this Feynman diagram, which is beyond the scope of this website. Nevertheless, we hope to give you a taste of what the strong force looks like in Feynman diagrams. To understand this Feynman diagram, you have to realize that quarks, in addition to their flavors (up, down, charm, strange, top, bottom), have color charges (red, green, blue). Anti-quarks also have their own anti-color charges (anti-red, anti-green, anti-blue). Gluons each come with a color charge and an anti-color charge (and hence there are 9 possible color combinations of gluons). Gluons are constantly exchanged between quarks, and you can see their color interactions in this diagram. With all these interactions, the net effect is that the proton and neutron are repelled from each other.
+{{< /expand >}}
