@@ -4,44 +4,6 @@ katex: true
 weight: 6
 ---
 
-
-
-![electrons repelling each other, with 2 photons](/images/repulsion-of-electrons.png)
-
-Here, we are able to represent the ‘repulsion’ between two charged particles, or the electromagnetic force! In this diagram, one electron exchanges a photon with another, causing them to be shoved off in opposite directions. This is also known as Moller scattering. 
-
-Here, we learn how they can be applied by examining the (known) Feynman diagrams for the fundamental forces of nature.
-
-## Explaining the Electromagnetic Force
-
-Interactions involving these fermions and bosons can be graphically described using Feynman diagrams. Let’s start by looking at an interaction between an electron and a photon. 
-
-## Explaining the Strong and Weak Forces
-
-We have thus far seen electromagnetic interactions. But how does it compare to the strong and weak forces?
-
-![electrons repelling each other, with 2 photons](/images/comparison-of-forces.png)
-
-These are the primitive vertices for the strong, electromagnetic and weak forces. How about gravity? Well, there are no diagrams for gravity because gravitons haven’t been observed (yet). 
-
-Now that we've looked at some of the conservation laws, let's look at Feynman diagrams for the weak and strong force!
-
-![electrons repelling each other, with 2 photons](/images/weak-force-diagram.png)
-
-The weak force is perhaps trickier than the electromagnetic force. Usually, the chain of reasoning is a bit more complicated. Here, a neutron decays into a proton. We can see that the neutron and proton have common quarks, and the only difference between them is that the neutron has a 2nd down quark while the proton has a 2nd up quark. In this diagram, the down quark of the neutron first changes flavor to become the up quark of the proton. As the flavor of the quarks is changed, the weak force is at play here, and the boson emitted must either be the W boson or the Z boson. The charge of the down quark is $-\frac{1}{3}$ while the charge of the up quark is $+\frac{2}{3}$, so to conserve charge, it must be the W- boson. 
-
-In the diagram, the interaction doesn't stop here, and the W- boson disappears eventually. For this to happen, the W- boson then emits an electron to conserve charge. However, as the electron is a lepton leaving the vertex, another lepton must enter the vertex by going back in time. Since this is not physically possible, we instead use the mathematically equivalent explanation that an anti-lepton must leave the vertex, and therefore the anti-neutrino must also be emitted. This interaction is also known as beta minus decay.
-
-What about the strong nuclear force? The strong force is mediated by gluons. They are responsible for the attractive and repulsive forces between quarks.
-
-![electrons repelling each other, with 2 photons](/images/protons-neutrons-gluons.png)
-
-In this diagram, the whitish curly lines represent the gluons. You could say that gluons 'glue' quarks together!
-
-![electrons repelling each other, with 2 photons](/images/nuclear-strong-force.png)
-
-This is a diagram representing the strong nuclear force, or the repulsion between a neutron and a proton. Don't worry if it looks complicated! Some extra knowledge is required to understand this Feynman diagram, which is beyond the scope of this website. Nevertheless, we hope to give you a taste of what the strong force looks like in Feynman diagrams. To understand this Feynman diagram, you have to realize that quarks, in addition to their flavors (up, down, charm, strange, top, bottom), have color charges (red, green, blue). Anti-quarks also have their own anti-color charges (anti-red, anti-green, anti-blue). Gluons each come with a color charge and an anti-color charge (and hence there are 9 possible color combinations of gluons). Gluons are constantly exchanged between quarks, and you can see their color interactions in this diagram. With all these interactions, the net effect is that the proton and neutron are repelled from each other.
-
 # Applications of Feynman Diagrams
 
 ## Significance of Feynman Diagrams
@@ -67,7 +29,7 @@ In $\beta^-$ decay, we have a neutron spontaneously converting into a proton, an
 $$
 n \to p^+ + e^- + \overline{v}
 $$
-This can be represented using a Feynman diagram too! Let's take a look (note that the vertical axis is space, while the horizontal is time):
+This can be represented using a Feynman diagram too! Let's take a look (note that the vertical axis is space, while the horizontal axis is time):
 
 ![beta-minus-decay](/images/beta-minus-decay.png)
 
@@ -79,17 +41,31 @@ Wait, but what's $d$, $u$, $W^-$ and so on? Let's summarise it in the following 
 | $u$    | Up quark   | Makes up matter                |
 | $W^-$  | W boson    | Particle mediating weak forces |
 
-It may seem a bit strange, but recall that a neutron consists of 1 up quark and 2 down quarks, while a proton consists of 2 up quarks and 1 down quark. Thus, by converting a down quark to an up quark, a neutron can become a proton!
+It may seem a bit strange, but recall that a neutron consists of 1 up quark and 2 down quarks, while a proton consists of 2 up quarks and 1 down quark. Thus, by converting a down quark to an up quark, a neutron can become a proton! 
 
-With that out of the way, let's look at the diagram more closely. The top two solid lines represent the conversion of a down quark to an up quark, that's easy. Since we have a change in the flavour of quarks, we know that the weak force is involved here. Thus, we must have a $W$ boson acting as the middle-man. By applying conservation of charge on the top vertex, we can determine that it must have a charge of $-1$.
+With that out of the way, let's look at the first diagram more closely. The top two solid lines represent the conversion of a down quark to an up quark, that's easy. Since we have a change in the flavour of quarks, we know that the weak force is involved here. Thus, we must have a $W$ boson acting as the middle-man. By applying conservation of charge on the top vertex, we can determine that it must have a charge of $-1$.
 
-Now, the second vertex is where things start to get more interesting. When we learned $\beta^-$ decay, many of us probably wondered why an anti-neutrino is produced. It seemed very arbitrary, but here we see a rather nice explanation. According to the rules of Feynman diagrams, we must have **a real particle entering and exiting** each vertex. So far, we only have a real particle exiting ($e^-$), because the $W^-$ boson is virtual and doesn't count. Thus, there must be another particle that is entering! We draw another line, but this time, we have to direct it *backwards in time* to satisfy that condition, which tells us that this particle is an antiparticle. That's how we predict the existence of the anti-neutrino, and scientists have confirmed that through experiments.
+{{< expand "Help! I want a more verbose explanation!" >}}
+
+Try looking at the diagram below (convince yourself that they both represent the same process!):
+
+![electrons repelling each other, with 2 photons](/images/weak-force-diagram.png)
+
+Let's zoom into what happens when a neutron decays into a proton. In the diagram, we can see that the neutron and proton have 2 common quarks; the only difference between them is that the neutron has a 2nd down quark while the proton has a 2nd up quark. When the process occurs, the down quark of the neutron first changes *flavor* to become the up quark of the proton. As the flavor of the quarks is changed, the weak force is at play here (by definition), and the boson emitted must either be the $W$ boson or the $Z$ boson. The $W$ bosons are charged while the $Z$ boson is neutral, so since there is a change in charge (the charge of the down quark is $-\frac{1}{3}$ while the charge of the up quark is $+\frac{2}{3}$), the boson must be a $W^-$ boson to conserve charge.
+
+{{< /expand >}}
+
+Now, the second vertex is where things start to get more interesting. The interaction doesn't stop at the first vertex since the $W^-$ boson disappears eventually. For this to happen, the $W^-$ boson emits an electron to conserve charge. When we learned $\beta^-$ decay, many of us probably wondered why an anti-neutrino is produced. It seemed very arbitrary, but here we see a rather nice explanation. According to the rules of Feynman diagrams, we must **conserve lepton number**. So far, we only have a lepton exiting ($e^-$), because the $W^-$ boson is not a lepton. Thus, there must be another lepton that is entering! 
+
+But...how do we get such a lepton? Since this is not physically possible, we will use the mathematically equivalent explanation that an anti-lepton must be leaving the vertex. Therefore, an anti-neutrino must also be emitted. 
+
+We draw another line, but this time, we have to direct it *backwards in time* to indicate an antiparticle. That's how we predict the existence of the anti-neutrino, and scientists have confirmed that through experiments.
 
 ## Fundamental applications
 
 ### Exchange forces, again
 
-As mentioned in the previous sections, forces that we usually think of being due to a certain field can be explained using particle physics too! Here's a quick recap:
+As mentioned in the previous sections, forces that we usually think of being due to a certain field can be explained using particle physics too! Here's a handy summary for easy referencing.
 
 | Fundamental Force | Mediator      |
 | ----------------- | ------------- |
@@ -120,16 +96,27 @@ Well, they'll repel each other and fly apart, because like charges repel right? 
 
 
 
-However, there is also another possible cause of this repulsion, albeit less common. That is, the $Z$ boson could have been a mediator for a weak interaction between the electrons. Note that the $Z$ boson and not the $W$ boson is involved, because we have a neutral intermediate due to the conservation laws of particle interactions.
+In fact, this is also known as Moller scattering. However, there is also another possible cause of this repulsion, albeit less common. That is, the $Z$ boson could have been a mediator for a weak interaction between the electrons. Note that the $Z$ boson and not the $W$ boson is involved, because we have a neutral intermediate due to the conservation laws of particle interactions.
 
 ![electro-weak](/images/electro-weak.png)
 
-## “Worked examples” of interactions with explanations
+### Explaining the Strong Force
 
-## [optional] DIY Exercises with answers for self-check
+What about the strong (nuclear) force? The strong force is mediated by gluons. They are responsible for the attractive and repulsive forces between quarks.
 
-## References
+![electrons repelling each other, with 2 photons](/images/protons-neutrons-gluons.png)
 
-* https://physics.aps.org/story/v24/st3
+In this diagram, the whitish curly lines represent the gluons. You could say that gluons 'glue' quarks together!
 
-* http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/feyn.html
+![electrons repelling each other, with 2 photons](/images/nuclear-strong-force.png)
+
+This is a diagram representing the strong nuclear force, or the repulsion between a neutron and a proton. Don't worry if it looks complicated! Some extra knowledge is required to understand this Feynman diagram, which is beyond the scope of this website. Nevertheless, we hope to give you a taste of what the strong force looks like in Feynman diagrams. To understand this Feynman diagram, you have to realize that quarks, in addition to their flavors (up, down, charm, strange, top, bottom), have color charges (red, green, blue). Anti-quarks also have their own anti-color charges (anti-red, anti-green, anti-blue). Gluons each come with a color charge and an anti-color charge (and hence there are 9 possible color combinations of gluons). Gluons are constantly exchanged between quarks, and you can see their color interactions in this diagram. With all these interactions, the net effect is that the proton and neutron are repelled from each other.
+
+## Summary
+
+To summarise, these are the primitive vertices for the strong, electromagnetic and weak forces. 
+
+![electrons repelling each other, with 2 photons](/images/comparison-of-forces.png)
+
+How about gravity? Well, there are no diagrams for gravity because gravitons haven’t been observed (yet). Feel free to refer to the earlier diagrams to see how these primitive vertices fit together to build the larger diagram! If you think you have understood everything so far, [try out the exercises](../try-it-yourself/) we have prepared next to test your understanding!
+
