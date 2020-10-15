@@ -17,19 +17,9 @@ One of the fascinating things about Feynman diagrams is that if you construct a 
 
 Here, the electron starts on the left, while the positron starts on the right. They move towards each other, until a mysterious interaction happens in the middle, they are annihilated, and two photons are created. Mathematically speaking, this interaction is explained by the electron on the left moving forward in time, then releasing a photon and somehow moving to the right, then releasing another photon and moving backwards in time. (All anti-particles moving forward in time are mathematically the same as their normal counterparts moving backward in time, even if this may not be physically true, which is why their arrows are reversed.) This interaction can be described as an electron-positron annihilation. 
 
-This is one of the four interactions between electrons, positrons and photons predicted and shown below. Try physically interpreting each one!
-
-![electrons repelling each other, with 2 photons](/images/four-electrodynamic-interactions.png)
-
-**C****hallenge****:** **Try to** **create a Feynman diagram** **using two vertices to predict the ‘repulsion’ of two electrons.** 
-
-{{< expand >}}
-
 ![electrons repelling each other, with 2 photons](/images/repulsion-of-electrons.png)
 
-Here, we are able to represent the ‘repulsion’ between two charged particles, or the electromagnetic force! In this diagram, one electron exchanges a photon with another, causing them to be shoved off in opposite directions. This is also known as Moller scattering.
-
-{{< /expand >}}
+Here, we are able to represent the ‘repulsion’ between two charged particles, or the electromagnetic force! In this diagram, one electron exchanges a photon with another, causing them to be shoved off in opposite directions. This is also known as Moller scattering. A quick question: What is the time-axis here? If you were observant, you might realize that up and down arrows are both used for the electron and positrons, which means that the y-axis can't be time. Therefore, time must be on the x-axis, and the y-axis represents space. Some authors are evil so you'll have to be careful not to make any false assumptions!
 
 ## **FEYNMAN DIAGRAMS** **(STRONG & WEAK FORCE)** 
 
@@ -43,14 +33,24 @@ We will dive in deeper into Feynman diagrams, but eventually, we must support ou
 
 The conservation of charge is quite logical. For instance, an up quark has a charge of $+\frac{2}{3}$, while a down quark has a charge of $-\frac{1}{3}$. This is also why neutrons, having one up quark and two down quarks is neutral, while protons, having one two up quarks and one down quark has a charge of $+1$. If a neutron decays into a proton, a $W^-$ boson must be spit out to conserve charge. 
 
-Baryons are massive particles which are made up of three quarks in the standard model. Each baryon is giving a baryon number of $1$. By logic, quarks are given a baryon number of $\frac{1}{3}$. An antiquark is given a baryon number of $-\frac{1}{3}$. This is why mesons, made up of a quark and antiquark, are given a baryon number of $0$. No known decay process or interaction in nature changes the net baryon number. 
+Baryons are massive particles which are made up of three quarks in the standard model. Each baryon is given a baryon number of $1$. By logic, quarks are given a baryon number of $\frac{1}{3}$. An antiquark is given a baryon number of $-\frac{1}{3}$. This is why mesons, made up of a quark and antiquark, are given a baryon number of $0$. No known decay process or interaction in nature changes the net baryon number. In short, you could say that if one quark enters a vertex, one quark must leave it.
 
-All leptons are given a lepton number of $1$, while all anti-leptons are given a lepton number of $-1$. For example, an electron and anti-neutrino will balance each other out, and that’s why they appear in the beta decay of an atom. 
+All leptons are given a lepton number of $1$, while all anti-leptons are given a lepton number of $-1$. For example, an electron and anti-neutrino will balance each other out, and that’s why they appear in the beta decay of an atom. If one lepton enters a vertex, one lepton must leave it.
 
-![electrons repelling each other, with 2 photons](/images/complicated-diagram-with-gluons.png)
-
-**[strong nuclear forces diagrams]** 
-
-How about the weak nuclear force? 
+Now that we've looked at some of the conservation laws, let's look at Feynman diagrams for the weak and strong force!
 
 ![electrons repelling each other, with 2 photons](/images/weak-force-diagram.png)
+
+The weak force is perhaps trickier than the electromagnetic force. Usually, the chain of reasoning is a bit more complicated. Here, a neutron decays into a proton. We can see that the neutron and proton have common quarks, and the only difference between them is that the neutron has a 2nd down quark while the proton has a 2nd up quark. In this diagram, the down quark of the neutron first changes flavor to become the up quark of the proton. As the flavor of the quarks is changed, the weak force is at play here, and the boson emitted must either be the W boson or the Z boson. The charge of the down quark is $-\frac{1}{3}$ while the charge of the up quark is $+\frac{2}{3}$, so to conserve charge, it must be the W- boson. 
+
+In the diagram, the interaction doesn't stop here, and the W- boson disappears eventually. For this to happen, the W- boson then emits an electron to conserve charge. However, as the electron is a lepton leaving the vertex, another lepton must enter the vertex by going back in time. Since this is not physically possible, we instead use the mathematically equivalent explanation that an anti-lepton must leave the vertex, and therefore the anti-neutrino must also be emitted. This interaction is also known as beta minus decay.
+
+What about the strong nuclear force? The strong force is mediated by gluons. They are responsible for the attractive and repulsive forces between quarks.
+
+![electrons repelling each other, with 2 photons](/images/protons-neutrons-gluons.png)
+
+In this diagram, the whitish curly lines represent the gluons. You could say that gluons 'glue' quarks together!
+
+![electrons repelling each other, with 2 photons](/images/nuclear-strong-force.png)
+
+This is a diagram representing the strong nuclear force, or the repulsion between a neutron and a proton. Don't worry if it looks complicated! Some extra knowledge is required to understand this Feynman diagram, which is beyond the scope of this website. Nevertheless, we hope to give you a taste of what the strong force looks like in Feynman diagrams. To understand this Feynman diagram, you have to realize that quarks, in addition to their flavors (up, down, charm, strange, top, bottom), have color charges (red, green, blue). Anti-quarks also have their own anti-color charges (anti-red, anti-green, anti-blue). Gluons each come with a color charge and an anti-color charge (and hence there are 9 possible color combinations of gluons). Gluons are constantly exchanged between quarks, and you can see their color interactions in this diagram. With all these interactions, the net effect is that the proton and neutron are repelled from each other.

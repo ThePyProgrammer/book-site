@@ -62,11 +62,11 @@ Actually, there's no change in particles in this interaction! We start with an e
 
 ## Beta-Plus Decay
 
-We've seen Beta-Decay, but there's also another form of Beta Decay! In this version, a proton converts to a neutron, a positron and a neutrino. As the proton is (_uud_) while the neutron is (_udd_), the true interaction only involves an up quark changing to a down quark. The equation is given as:
+We've seen Beta-Decay, but there's also another form of Beta Decay! In this version, a proton converts to a neutron, a positron and a neutrino. As the proton is _uud_ while the neutron is _udd_, the actual interaction only involves an up quark changing to a down quark. The equation is given as:
 $$
 u \to d + e^+ + v
 $$
-$v$ represents the neutrino ejected.
+where $v$ represents the neutrino ejected.
 
 Try to draw the Feynman Diagram for this interaction!
 
