@@ -16,9 +16,13 @@ To explore quantum interactions, you should know have an awareness of our curren
 
 ![electrons repelling each other, with 2 photons](/images/standard-model-of-particle-physics.png)
 
+<p style="text-align:center"> <em>Source: Google Images</em></p>
+
 You might be curious then: what are protons and neutrons made up of? The answer is ***quarks***. Protons have two up quarks and one down quark (denoted $uud$), while neutrons have one up quark and two down quarks ($udd$). This means that most of our observable universe can be described using just up quarks, down quarks and electrons! (electrons are already elementary particles, so we can't divide them further)
 
 ![electrons repelling each other, with 2 photons](/images/protons-neutrons-quarks.png)
+
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 ### The Four Fundamental Forces
 
@@ -43,10 +47,14 @@ We know that the electromagnetic force is carried by the electric and magnetic f
 
 ![magnetic field](/images/magneticfield.jpg)
 
+<p style="text-align:center"> <em>Source: Google Images</em></p>
+
 **Electric Field**
 
 This is an electric field. The lines describe the force exerted on the a positively charged particle. We can see that positive charges are attracted to the negative charge, and repelled away from the positive charge. 
 
 ![electric field](/images/electricfield.gif)
+
+<p style="text-align:center"> <em>Source: Google</em></p>
 
 The idea of electric fields and magnetic fields works well for most day to day interactions. However, for really small objects, like electrons and photons, the classical model of fields begins to break down. Hence, we need another explanation - quantum mechanics.  Read more in the [QED section](../quantum-electrodynamics/).

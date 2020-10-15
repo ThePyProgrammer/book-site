@@ -16,6 +16,8 @@ But it hasn't always been this way. When the first Feynman diagram was published
 
 ![The first Feynmann Diagram published in 1949](https://physics.aps.org/assets/be0eeb33-4bba-4208-9bf9-2587acdf9c7c/e3_1.gif)
 
+<p style="text-align:center"> <em>Source: Google Images</em></p>
+
 Fortunately, Dyson showed later in a classic paper that the 3 brilliant scientists' methods were equivalent. And for their work, they received the joint [Nobel Prize in Physics for 1965](https://www.nobelprize.org/prizes/physics/1965/summary/).
 
 ## Common applications
@@ -50,6 +52,8 @@ With that out of the way, let's look at the first diagram more closely. The top 
 Try looking at the diagram below (convince yourself that they both represent the same process!):
 
 ![electrons repelling each other, with 2 photons](/images/weak-force-diagram.png)
+
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 Let's zoom into what happens when a neutron decays into a proton. In the diagram, we can see that the neutron and proton have 2 common quarks; the only difference between them is that the neutron has a 2nd down quark while the proton has a 2nd up quark. When the process occurs, the down quark of the neutron first changes *flavor* to become the up quark of the proton. As the flavor of the quarks is changed, the weak force is at play here (by definition), and the boson emitted must either be the $W$ boson or the $Z$ boson. The $W$ bosons are charged while the $Z$ boson is neutral, so since there is a change in charge (the charge of the down quark is $-\frac{1}{3}$ while the charge of the up quark is $+\frac{2}{3}$), the boson must be a $W^-$ boson to conserve charge.
 
@@ -94,11 +98,13 @@ Well, they'll repel each other and fly apart, because like charges repel right? 
 
 ![electro-mag](/images/electro-mag.png)
 
-
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 In fact, this is also known as Moller scattering. However, there is also another possible cause of this repulsion, albeit less common. That is, the $Z$ boson could have been a mediator for a weak interaction between the electrons. Note that the $Z$ boson and not the $W$ boson is involved, because we have a neutral intermediate due to the conservation laws of particle interactions.
 
 ![electro-weak](/images/electro-weak.png)
+
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 ### Explaining the Strong Force
 
@@ -106,9 +112,13 @@ What about the strong (nuclear) force? The strong force is mediated by gluons. T
 
 ![electrons repelling each other, with 2 photons](/images/protons-neutrons-gluons.png)
 
+<p style="text-align:center"> <em>Source: Google Images</em></p>
+
 In this diagram, the whitish curly lines represent the gluons. You could say that gluons 'glue' quarks together!
 
 ![electrons repelling each other, with 2 photons](/images/nuclear-strong-force.png)
+
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 This is a diagram representing the strong nuclear force, or the repulsion between a neutron and a proton. Don't worry if it looks complicated! Some extra knowledge is required to understand this Feynman diagram, which is beyond the scope of this website. Nevertheless, we hope to give you a taste of what the strong force looks like in Feynman diagrams. To understand this Feynman diagram, you have to realize that quarks, in addition to their flavors (up, down, charm, strange, top, bottom), have color charges (red, green, blue). Anti-quarks also have their own anti-color charges (anti-red, anti-green, anti-blue). Gluons each come with a color charge and an anti-color charge (and hence there are 9 possible color combinations of gluons). Gluons are constantly exchanged between quarks, and you can see their color interactions in this diagram. With all these interactions, the net effect is that the proton and neutron are repelled from each other.
 
@@ -117,6 +127,8 @@ This is a diagram representing the strong nuclear force, or the repulsion betwee
 To summarise, these are the primitive vertices for the strong, electromagnetic and weak forces. 
 
 ![electrons repelling each other, with 2 photons](/images/comparison-of-forces.png)
+
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 How about gravity? Well, there are no diagrams for gravity because gravitons haven’t been observed (yet). Feel free to refer to the earlier diagrams to see how these primitive vertices fit together to build the larger diagram! If you think you have understood everything so far, [try out the exercises](../try-it-yourself/) we have prepared next to test your understanding!
 
