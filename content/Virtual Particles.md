@@ -38,4 +38,8 @@ How do we deal with these infinites then? The answer lies in [Feynman Diagrams](
 
 ### A remark about HUP
 
-This is only an elementary description of the Heisenberg Uncertainty Principle to explain how virtual particles works. In fact, what we have stated may be an uncommon statement of the principle, which may have been a source of confusion if you have read about it earlier. The more common form of the Heisenberg Uncertainty Principle relates momentum and displacement instead. You can watch more about it [here](https://www.youtube.com/watch?v=a8FTr2qMutA).
+This is only an elementary description of the Heisenberg Uncertainty Principle to explain how virtual particles works. In fact, what we have stated may be an uncommon statement of the principle, which may have been a source of confusion if you have read about it earlier. The more common form of the Heisenberg Uncertainty Principle relates momentum and displacement instead. You can watch more about it here:
+
+
+
+{{< youtube a8FTr2qMutA>}}
