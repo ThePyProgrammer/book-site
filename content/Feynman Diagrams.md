@@ -29,8 +29,6 @@ Now that we know what lines and vertices represent, let's see how we can build a
 
 ![primitive vertex](/images/primitive_vertex.png)
 
-<p style="text-align:center"> <em>Source: Google Images</em></p>
-
 Any Feynman diagram can be constructed by joining primitive vertices together, but we can't do so randomly. There are certain rules that must be obeyed at each vertex.
 
 ### Conservation of Charge
@@ -113,7 +111,7 @@ Some processes can be related by simply twisting (or deforming) vertices in Feyn
 
 ![img](http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynw4.gif)
 
-Source: http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynw4.gif
+<p style="text-align:center"> <em>Source: http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynw4.gif</em></p>
 
 The exact process happening here isn't important. Instead, what you should note is how applying this simple transformation gives us a different process altogether. In fact, this powerful feature of Feynman diagram is a visualisation of **crossing-symmetry**.
 
@@ -145,7 +143,7 @@ You may have realised we never mentioned the antiparticle of a photon, which sho
 
 ![twisting a vertex](/images/feyn-twist.png)
 
-Edited from: http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynx.gif
+<p style="text-align:center"> <em>Edited from: http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/imgpar/feynx.gif</em></p>
 
 
 

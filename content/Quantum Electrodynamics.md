@@ -14,7 +14,7 @@ Newton's 2nd Law states that force is the rate of change of momentum ($\vec p$),
 
 ![A gun recoiling](/images/gunrecoil.gif)
 
-<p style="text-align:center"> <em>Source: Google</em></p>
+<p style="text-align:center"> <em>Source: Google Images</em></p>
 
 For example, this phenomena manifests when firing a gun. As the bullet flies forwards, the gun will recoil backwards. Why so? Initially, nothing is moving, so the momentum of the system is $0$. Thus, after firing, the momentums must cancel out to $0$. This is only possible if the gun have an equal momentum to the bullet, but in the opposite direction. This explains why a gun recoils *backwards* when a bullet is fired *forwards*. (Note that this means that when firing a bullet, a force is applied backwards on the gun as well)
 
