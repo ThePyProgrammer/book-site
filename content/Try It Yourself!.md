@@ -30,7 +30,7 @@ Remember the electron-positron annihilation from earlier? This process is the re
 
 {{< expand "See answer">}}
 
-![300](https://vimeo.com/292291821/0c7d51acd2)
+<video src="/videos/pairproductionsolution.mp4" controls style="width:100%"/>
 
 {{< /expand >}}
 
@@ -52,7 +52,7 @@ Actually, there's no change in particles in this interaction! We start with an e
 
 {{< expand "See answer">}}
 
-Insert video here.
+<video src="/videos/comptonscatteringsolution.mp4" controls style="width:100%"/>
 
 {{< /expand >}}
 
@@ -62,9 +62,9 @@ Insert video here.
 
 ## Beta-Plus Decay
 
-We've seen Beta-Decay, but there's also another form of Beta Decay! In this version, a proton converts to a neutron, a positron and a neutrino. The equation is given as:
+We've seen Beta-Decay, but there's also another form of Beta Decay! In this version, a proton converts to a neutron, a positron and a neutrino. As the proton is (_uud_) while the neutron is (_udd_), the true interaction only involves an up quark changing to a down quark. The equation is given as:
 $$
-p \to n + e^+ + v
+u \to d + e^+ + v
 $$
 $v$ represents the neutrino ejected.
 
@@ -78,6 +78,6 @@ Recall the Beta-Minus decay, and see if you can adapt it to this situation
 
 {{< expand "See answer">}}
 
-Insert video here.
+(to be added)
 
 {{< /expand >}}
