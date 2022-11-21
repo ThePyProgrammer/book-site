@@ -1,2 +1,2 @@
 #!/bin/sh
-hugo --minify --theme book
+hugo --minify --theme hugo-book

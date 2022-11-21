@@ -24,9 +24,9 @@ Fortunately, Dyson showed later in a classic paper that the 3 brilliant scientis
 
 ### Radioactive Decay
 
-#### $\beta^-$ decay
+#### {{< katex >}}\beta^-{{</katex >}} decay
 
-In $\beta^-$ decay, we have a neutron spontaneously converting into a proton, an electron and an anti-neutrino. This can also be written as:
+In {{< katex >}}\beta^-{{</katex >}} decay, we have a neutron spontaneously converting into a proton, an electron and an anti-neutrino. This can also be written as:
 
 $$
 n \to p^+ + e^- + \overline{v}
@@ -35,17 +35,17 @@ This can be represented using a Feynman diagram too! Let's take a look (note tha
 
 ![beta-minus-decay](/images/beta-minus-decay.png)
 
-Wait, but what's $d$, $u$, $W^-$ and so on? Let's summarise it in the following table:
+Wait, but what's {{<katex >}}d{{</katex >}}, {{<katex>}}u{{</katex >}}, {{<katex>}}W^-{{</katex >}} and so on? Let's summarise it in the following table:
 
 | Symbol | Name       | Description                    |
 | ------ | ---------- | ------------------------------ |
-| $d$    | Down quark | Makes up matter                |
-| $u$    | Up quark   | Makes up matter                |
-| $W^-$  | W boson    | Particle mediating weak forces |
+| {{<katex >}}d{{</katex >}}    | Down quark | Makes up matter                |
+| {{<katex>}}u{{</katex >}}    | Up quark   | Makes up matter                |
+| {{<katex>}}W^-{{</katex >}}  | W boson    | Particle mediating weak forces |
 
 It may seem a bit strange, but recall that a neutron consists of 1 up quark and 2 down quarks, while a proton consists of 2 up quarks and 1 down quark. Thus, by converting a down quark to an up quark, a neutron can become a proton! 
 
-With that out of the way, let's look at the first diagram more closely. The top two solid lines represent the conversion of a down quark to an up quark, that's easy. Since we have a change in the flavour of quarks, we know that the weak force is involved here. Thus, we must have a $W$ boson acting as the middle-man. By applying conservation of charge on the top vertex, we can determine that it must have a charge of $-1$.
+With that out of the way, let's look at the first diagram more closely. The top two solid lines represent the conversion of a down quark to an up quark, that's easy. Since we have a change in the flavour of quarks, we know that the weak force is involved here. Thus, we must have a {{<katex>}}W{{</katex >}} boson acting as the middle-man. By applying conservation of charge on the top vertex, we can determine that it must have a charge of {{<katex>}}-1{{</katex >}}.
 
 {{< expand "Help! I want a more verbose explanation!" >}}
 
